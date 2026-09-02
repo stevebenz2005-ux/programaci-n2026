@@ -1,0 +1,10 @@
+C:\Users\steve\source\repos\PARCIAL 1 2026\PARCIAL 1 2026\bin\Debug\PARCIAL 1 2026.exe.config
+C:\Users\steve\source\repos\PARCIAL 1 2026\PARCIAL 1 2026\bin\Debug\PARCIAL 1 2026.exe
+C:\Users\steve\source\repos\PARCIAL 1 2026\PARCIAL 1 2026\bin\Debug\PARCIAL 1 2026.pdb
+C:\Users\steve\source\repos\PARCIAL 1 2026\PARCIAL 1 2026\obj\Debug\PARCIAL 1 2026.csproj.AssemblyReference.cache
+C:\Users\steve\source\repos\PARCIAL 1 2026\PARCIAL 1 2026\obj\Debug\PARCIAL_1_2026.Form1.resources
+C:\Users\steve\source\repos\PARCIAL 1 2026\PARCIAL 1 2026\obj\Debug\PARCIAL_1_2026.Properties.Resources.resources
+C:\Users\steve\source\repos\PARCIAL 1 2026\PARCIAL 1 2026\obj\Debug\PARCIAL 1 2026.csproj.GenerateResource.cache
+C:\Users\steve\source\repos\PARCIAL 1 2026\PARCIAL 1 2026\obj\Debug\PARCIAL 1 2026.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\PARCIAL 1 2026\PARCIAL 1 2026\obj\Debug\PARCIAL 1 2026.exe
+C:\Users\steve\source\repos\PARCIAL 1 2026\PARCIAL 1 2026\obj\Debug\PARCIAL 1 2026.pdb
