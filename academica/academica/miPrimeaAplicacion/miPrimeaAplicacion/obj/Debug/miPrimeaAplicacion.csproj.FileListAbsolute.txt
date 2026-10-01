@@ -1,0 +1,68 @@
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2026\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.csproj.AssemblyReference.cache
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2026\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.Form1.resources
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2026\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.Properties.Resources.resources
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2026\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.csproj.GenerateResource.cache
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2026\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2026\miPrimeaAplicacion\miPrimeaAplicacion\bin\Debug\miPrimeaAplicacion.exe.config
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2026\miPrimeaAplicacion\miPrimeaAplicacion\bin\Debug\miPrimeaAplicacion.exe
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2026\miPrimeaAplicacion\miPrimeaAplicacion\bin\Debug\miPrimeaAplicacion.pdb
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2026\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.exe
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2026\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.pdb
+D:\Users\Estudiante\Desktop\PrograI-Semi-2026\miPrimeaAplicacion\miPrimeaAplicacion\bin\Debug\miPrimeaAplicacion.exe.config
+D:\Users\Estudiante\Desktop\PrograI-Semi-2026\miPrimeaAplicacion\miPrimeaAplicacion\bin\Debug\miPrimeaAplicacion.exe
+D:\Users\Estudiante\Desktop\PrograI-Semi-2026\miPrimeaAplicacion\miPrimeaAplicacion\bin\Debug\miPrimeaAplicacion.pdb
+D:\Users\Estudiante\Desktop\PrograI-Semi-2026\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.csproj.AssemblyReference.cache
+D:\Users\Estudiante\Desktop\PrograI-Semi-2026\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.Form1.resources
+D:\Users\Estudiante\Desktop\PrograI-Semi-2026\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.Properties.Resources.resources
+D:\Users\Estudiante\Desktop\PrograI-Semi-2026\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.csproj.GenerateResource.cache
+D:\Users\Estudiante\Desktop\PrograI-Semi-2026\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.csproj.CoreCompileInputs.cache
+D:\Users\Estudiante\Desktop\PrograI-Semi-2026\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.exe
+D:\Users\Estudiante\Desktop\PrograI-Semi-2026\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.pdb
+D:\Users\Estudiante\Desktop\PrograI-Semi-2026\miPrimeaAplicacion\miPrimeaAplicacion\bin\Debug\db_academica.mdf
+D:\Users\Estudiante\Desktop\PrograI-Semi-2026\miPrimeaAplicacion\miPrimeaAplicacion\bin\Debug\db_academica_log.ldf
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\PrograI-Semi-2026-academica\miPrimeaAplicacion\miPrimeaAplicacion\bin\Debug\db_academica.mdf
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\PrograI-Semi-2026-academica\miPrimeaAplicacion\miPrimeaAplicacion\bin\Debug\db_academica_log.ldf
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\PrograI-Semi-2026-academica\miPrimeaAplicacion\miPrimeaAplicacion\bin\Debug\miPrimeaAplicacion.exe.config
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\PrograI-Semi-2026-academica\miPrimeaAplicacion\miPrimeaAplicacion\bin\Debug\miPrimeaAplicacion.exe
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\PrograI-Semi-2026-academica\miPrimeaAplicacion\miPrimeaAplicacion\bin\Debug\miPrimeaAplicacion.pdb
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\PrograI-Semi-2026-academica\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.csproj.AssemblyReference.cache
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\PrograI-Semi-2026-academica\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.Form1.resources
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\PrograI-Semi-2026-academica\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.Properties.Resources.resources
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\PrograI-Semi-2026-academica\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.csproj.GenerateResource.cache
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\PrograI-Semi-2026-academica\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\PrograI-Semi-2026-academica\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.exe
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\PrograI-Semi-2026-academica\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.pdb
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\administrador\miPrimeaAplicacion\miPrimeaAplicacion\bin\Debug\db_academica.mdf
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\administrador\miPrimeaAplicacion\miPrimeaAplicacion\bin\Debug\db_academica_log.ldf
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\administrador\miPrimeaAplicacion\miPrimeaAplicacion\bin\Debug\miPrimeaAplicacion.exe.config
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\administrador\miPrimeaAplicacion\miPrimeaAplicacion\bin\Debug\miPrimeaAplicacion.exe
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\administrador\miPrimeaAplicacion\miPrimeaAplicacion\bin\Debug\miPrimeaAplicacion.pdb
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\administrador\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.csproj.AssemblyReference.cache
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\administrador\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.Form1.resources
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\administrador\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.Properties.Resources.resources
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\administrador\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.csproj.GenerateResource.cache
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\administrador\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\administrador\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.exe
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\administrador\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.pdb
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\administrador\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.frmPrincipal.resources
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\administrador\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimerProyectoCsharp.frmMaterias.resources
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\administrador\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.frmPeriodos.resources
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\Administrador-Sistema Academico\miPrimeaAplicacion\miPrimeaAplicacion\bin\Debug\db_academica.mdf
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\Administrador-Sistema Academico\miPrimeaAplicacion\miPrimeaAplicacion\bin\Debug\db_academica_log.ldf
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\Administrador-Sistema Academico\miPrimeaAplicacion\miPrimeaAplicacion\bin\Debug\miPrimeaAplicacion.exe.config
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\Administrador-Sistema Academico\miPrimeaAplicacion\miPrimeaAplicacion\bin\Debug\miPrimeaAplicacion.exe
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\Administrador-Sistema Academico\miPrimeaAplicacion\miPrimeaAplicacion\bin\Debug\miPrimeaAplicacion.pdb
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\Administrador-Sistema Academico\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.csproj.AssemblyReference.cache
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\Administrador-Sistema Academico\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.Form1.resources
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\Administrador-Sistema Academico\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimerProyectoCsharp.frmMaterias.resources
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\Administrador-Sistema Academico\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.frmPeriodos.resources
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\Administrador-Sistema Academico\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.frmPrincipal.resources
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\Administrador-Sistema Academico\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.Properties.Resources.resources
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\Administrador-Sistema Academico\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.csproj.GenerateResource.cache
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\Administrador-Sistema Academico\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\Administrador-Sistema Academico\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.exe
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\Administrador-Sistema Academico\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.pdb
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\Administrador-Sistema Academico\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimerProyectoCsharp.frmNotas.resources
+C:\Users\steve\Downloads\Administrador-Sistema Academico1\Administrador-Sistema Academico1\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.csproj.AssemblyReference.cache
+C:\Users\steve\Downloads\Administrador-Sistema Academico1\Administrador-Sistema Academico1\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.exe
+C:\Users\steve\Downloads\Administrador-Sistema Academico1\Administrador-Sistema Academico1\miPrimeaAplicacion\miPrimeaAplicacion\obj\Debug\miPrimeaAplicacion.pdb
