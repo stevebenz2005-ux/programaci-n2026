@@ -1,0 +1,13 @@
+C:\Users\steve\source\repos\PARCIAL 2\PARCIAL 2\obj\Debug\PARCIAL 2.csproj.AssemblyReference.cache
+C:\Users\steve\source\repos\PARCIAL 2\PARCIAL 2\obj\Debug\PARCIAL_2.frmusuario.resources
+C:\Users\steve\source\repos\PARCIAL 2\PARCIAL 2\obj\Debug\PARCIAL_2.Properties.Resources.resources
+C:\Users\steve\source\repos\PARCIAL 2\PARCIAL 2\obj\Debug\PARCIAL 2.csproj.GenerateResource.cache
+C:\Users\steve\source\repos\PARCIAL 2\PARCIAL 2\obj\Debug\PARCIAL 2.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\PARCIAL 2\PARCIAL 2\obj\Debug\PARCIAL_2.Form1.resources
+C:\Users\steve\source\repos\PARCIAL 2\PARCIAL 2\bin\Debug\usuariodb.mdf
+C:\Users\steve\source\repos\PARCIAL 2\PARCIAL 2\bin\Debug\usuariodb_log.ldf
+C:\Users\steve\source\repos\PARCIAL 2\PARCIAL 2\bin\Debug\PARCIAL 2.exe.config
+C:\Users\steve\source\repos\PARCIAL 2\PARCIAL 2\bin\Debug\PARCIAL 2.exe
+C:\Users\steve\source\repos\PARCIAL 2\PARCIAL 2\bin\Debug\PARCIAL 2.pdb
+C:\Users\steve\source\repos\PARCIAL 2\PARCIAL 2\obj\Debug\PARCIAL 2.exe
+C:\Users\steve\source\repos\PARCIAL 2\PARCIAL 2\obj\Debug\PARCIAL 2.pdb
